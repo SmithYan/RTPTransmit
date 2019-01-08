@@ -111,7 +111,7 @@
             // 
             this.tSTBRtpPort.Name = "tSTBRtpPort";
             this.tSTBRtpPort.Size = new System.Drawing.Size(100, 27);
-            this.tSTBRtpPort.Text = "20000";
+            this.tSTBRtpPort.Text = "10000";
             // 
             // toolStripSeparator2
             // 
@@ -145,7 +145,7 @@
             // 
             this.tSTBRtcpPort.Name = "tSTBRtcpPort";
             this.tSTBRtcpPort.Size = new System.Drawing.Size(100, 27);
-            this.tSTBRtcpPort.Text = "3565";
+            this.tSTBRtcpPort.Text = "1635";
             // 
             // toolStripSeparator3
             // 
@@ -179,7 +179,7 @@
             // 
             this.tSTBAimPort.Name = "tSTBAimPort";
             this.tSTBAimPort.Size = new System.Drawing.Size(100, 27);
-            this.tSTBAimPort.Text = "10000";
+            this.tSTBAimPort.Text = "20000";
             // 
             // toolStripSeparator8
             // 
